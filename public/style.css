@@ -1,0 +1,50 @@
+
+#drawing {
+	position: relative;
+	background-color: gray;
+	padding: 0;
+	display: inline-block;
+	}
+
+html, body {
+	position: relative;
+	overflow: hidden;
+	font-family: sans-serif;
+	user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+
+}
+
+
+
+
+
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:70px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
